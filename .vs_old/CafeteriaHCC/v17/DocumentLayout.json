@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\cafeteriahcc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\cafeteriahcc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\dal\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\dal\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\models\\tb_hccproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\models\\tb_hccproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\models\\tb_hccordenesdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\models\\tb_hccordenesdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\models\\tb_hccordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\models\\tb_hccordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\models\\tb_hccmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\models\\tb_hccmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\models\\tb_hcccatestatusorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\models\\tb_hcccatestatusorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|c:\\users\\mau\\documents\\visual studio 2022\\projects\\cafeteriahcc\\cafeteriahcc\\models\\tb_hccalmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\models\\tb_hccalmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\cafeteriahcc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\cafeteriahcc\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E287-E4A7-415E-A6CF-D2439FA6CBB1}|CafeteriaHCC\\CafeteriaHCC.csproj|solutionrelative:cafeteriahcc\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CafeteriaHCC",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\CafeteriaHCC.csproj",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\CafeteriaHCC.csproj",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\CafeteriaHCC.csproj",
+              "RelativeToolTip": "CafeteriaHCC\\CafeteriaHCC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T22:40:09.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\appsettings.Development.json",
+              "RelativeToolTip": "CafeteriaHCC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T22:35:01.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\DAL\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\DAL\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\DAL\\AccesoDatos.cs",
+              "RelativeToolTip": "CafeteriaHCC\\DAL\\AccesoDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:14:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\appsettings.json",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\appsettings.json",
+              "RelativeToolTip": "CafeteriaHCC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T21:49:02.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tb_HccAlmacen.cs",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccAlmacen.cs",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\Models\\Tb_HccAlmacen.cs",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccAlmacen.cs",
+              "RelativeToolTip": "CafeteriaHCC\\Models\\Tb_HccAlmacen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:34:45.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tb_HccProductos.cs",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccProductos.cs",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\Models\\Tb_HccProductos.cs",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccProductos.cs",
+              "RelativeToolTip": "CafeteriaHCC\\Models\\Tb_HccProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:34:31.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tb_HccMesas.cs",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccMesas.cs",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\Models\\Tb_HccMesas.cs",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccMesas.cs",
+              "RelativeToolTip": "CafeteriaHCC\\Models\\Tb_HccMesas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:34:23.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tb_HccCatEstatusOrden.cs",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccCatEstatusOrden.cs",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\Models\\Tb_HccCatEstatusOrden.cs",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccCatEstatusOrden.cs",
+              "RelativeToolTip": "CafeteriaHCC\\Models\\Tb_HccCatEstatusOrden.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:34:15.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tb_HccOrdenes.cs",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccOrdenes.cs",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\Models\\Tb_HccOrdenes.cs",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccOrdenes.cs",
+              "RelativeToolTip": "CafeteriaHCC\\Models\\Tb_HccOrdenes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:34:06.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tb_HccOrdenesDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccOrdenesDetalle.cs",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\Models\\Tb_HccOrdenesDetalle.cs",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Models\\Tb_HccOrdenesDetalle.cs",
+              "RelativeToolTip": "CafeteriaHCC\\Models\\Tb_HccOrdenesDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:33:49.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Program.cs",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\Program.cs",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Program.cs",
+              "RelativeToolTip": "CafeteriaHCC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:29:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CafeteriaHCC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T17:52:04.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CafeteriaHCC\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:25.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CafeteriaHCC\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mau\\Documents\\Visual Studio 2022\\Projects\\CafeteriaHCC\\CafeteriaHCC\\WeatherForecast.cs",
+              "RelativeToolTip": "CafeteriaHCC\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:15.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
